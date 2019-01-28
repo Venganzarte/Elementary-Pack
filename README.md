@@ -1,2 +1,2 @@
 # Mode-icons
-Osx-style-icons
+OSX Mojave Theme pack for Elementary OS
